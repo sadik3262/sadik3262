@@ -128,11 +128,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -167,11 +162,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
